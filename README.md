@@ -1,10 +1,16 @@
 # Graphics Design
 ### Showcase of various graphics design work I have done.
+***
+#### The work in this section is for real businesses.
 
-![alt text][blueribbon]
-![alt text][innout]
+![alt text][gloseats]
 ![alt text][jjsfront]
 ![alt text][jjsrear]
+![alt text][jjslabels]
+***
+#### The work in this section is for demonstration purposes.
+![alt text][blueribbon]
+![alt text][innout]
 ![alt text][mixtape]
 ![alt text][textexample]
 ![alt text][airkua]
@@ -18,3 +24,5 @@
 [textexample]: https://github.com/jdzine92/Graphics-Design/blob/main/textexample-watermarked.jpg "Floral Text"
 [airkua]: https://github.com/jdzine92/Graphics-Design/blob/main/airkua-watermarked.png "AirKua"
 [eclipse]: https://github.com/jdzine92/Graphics-Design/blob/main/eclipse-watermarked.png "Eclipse Software"
+[gloseats]: https://github.com/jdzine92/Graphics-Design/blob/main/glos-eats-watermarked.jpg "Gloucester Eats"
+[jjslabels]: https://github.com/jdzine92/Graphics-Design/blob/main/jjs-labels.jpg "JJ's Swwet treats Labels"

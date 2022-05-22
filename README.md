@@ -24,7 +24,7 @@
 [mixtape]: https://github.com/jdzine92/Graphics-Design/blob/main/mixtape-watermarked.jpg "Classic Car Mixtape"
 [textexample]: https://github.com/jdzine92/Graphics-Design/blob/main/textexample-watermarked.jpg "Floral Text"
 [airkua]: https://github.com/jdzine92/Graphics-Design/blob/main/airkua-watermarked.png "AirKua"
-[eclipse]: https://github.com/jdzine92/Graphics-Design/blob/main/eclipse-watermarked.png "Eclipse Software"
+[eclipse]: https://github.com/jdzine92/Graphics-Design/blob/main/eclipse-software-watermarked.png "Eclipse Software"
 [gloseats]: https://github.com/jdzine92/Graphics-Design/blob/main/glos-eats-watermarked.jpg "Gloucester Eats"
 [jjslabels]: https://github.com/jdzine92/Graphics-Design/blob/main/jjs-labels.jpg "JJ's Swwet treats Labels"
 [noxxpt]: https://github.com/jdzine92/Graphics-Design/blob/main/noxxpt-watermarked.png "Noxx Personal Training"

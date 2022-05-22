@@ -7,6 +7,7 @@
 ![alt text][jjsfront]
 ![alt text][jjsrear]
 ![alt text][jjslabels]
+![alt text][noxxpt]
 ***
 #### The work in this section is for demonstration purposes.
 ![alt text][blueribbon]
@@ -26,3 +27,4 @@
 [eclipse]: https://github.com/jdzine92/Graphics-Design/blob/main/eclipse-watermarked.png "Eclipse Software"
 [gloseats]: https://github.com/jdzine92/Graphics-Design/blob/main/glos-eats-watermarked.jpg "Gloucester Eats"
 [jjslabels]: https://github.com/jdzine92/Graphics-Design/blob/main/jjs-labels.jpg "JJ's Swwet treats Labels"
+[noxxpt]: https://github.com/jdzine92/Graphics-Design/blob/main/noxx-watermarked.png "Noxx Personal Training"

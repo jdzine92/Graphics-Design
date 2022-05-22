@@ -27,4 +27,4 @@
 [eclipse]: https://github.com/jdzine92/Graphics-Design/blob/main/eclipse-watermarked.png "Eclipse Software"
 [gloseats]: https://github.com/jdzine92/Graphics-Design/blob/main/glos-eats-watermarked.jpg "Gloucester Eats"
 [jjslabels]: https://github.com/jdzine92/Graphics-Design/blob/main/jjs-labels.jpg "JJ's Swwet treats Labels"
-[noxxpt]: https://github.com/jdzine92/Graphics-Design/blob/main/noxx-watermark.png "Noxx Personal Training"
+[noxxpt]: https://github.com/jdzine92/Graphics-Design/blob/main/noxxpt-watermark.png "Noxx Personal Training"

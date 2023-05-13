@@ -10,12 +10,13 @@
 ![alt text][noxxpt]
 ***
 #### The work in this section is for demonstration purposes.
+![alt text][wepsystems]
 ![alt text][blueribbon]
 ![alt text][innout]
 ![alt text][mixtape]
 ![alt text][textexample]
 ![alt text][airkua]
-![alt text][eclipse]
+
 
 [blueribbon]: https://github.com/jdzine92/Graphics-Design/blob/main/blueribbon-watermarked.png "Blue Ribbon Co."
 [innout]: https://github.com/jdzine92/Graphics-Design/blob/main/innout-watermarked.png "In 'N' Out"
@@ -28,3 +29,4 @@
 [gloseats]: https://github.com/jdzine92/Graphics-Design/blob/main/glos-eats-watermarked.jpg "Gloucester Eats"
 [jjslabels]: https://github.com/jdzine92/Graphics-Design/blob/main/jjs-labels.jpg "JJ's Swwet treats Labels"
 [noxxpt]: https://github.com/jdzine92/Graphics-Design/blob/main/noxxpt-watermarked.png "Noxx Personal Training"
+[wepsystems]: https://github.com/jdzine92/Graphics-Design/blob/main/wep-systems.jpg "WEP Systems"
